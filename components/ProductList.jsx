@@ -31,7 +31,7 @@ const ProductList = () => {
             </li>
           ))
         ) : (
-          <p>No products available</p>
+          <p>Tidak Ada Product</p>
         )}
       </ul>
     </div>
