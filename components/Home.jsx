@@ -11,7 +11,7 @@ export default function Home() {
     if (cart.length === 0) {
       alert("Tambahkan produk ke keranjang terlebih dahulu!");
     } else {
-
+      // Redirect ke halaman kedua
     }
   };
 
