@@ -10,7 +10,7 @@ const Product = ({ product }) => {
       ref={drag}
       style={{ border: "1px solid #ccc", padding: "10px", margin: "10px" }}>
       <h3>{product.name}</h3>
-      <p>{product.price}</p>
+      <p>{product.price}</p>s
     </div>
   );
 };
